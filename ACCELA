@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -e  # Exit on error
+{
+
+# Dummy Script To Tell The Script Where It Will Be Operating In.
+cd "$(dirname "$0")"
+    SCRIPT_DIR="$(pwd)"
+
+# This Activates The Virtual Enviroment.
+source  $SCRIPT_DIR/.venv/bin/activate
+
+# This Runs ACCELA
+aplay $SCRIPT_DIR/etw.wav
+python $SCRIPT_DIR/main.py & sleep 1s
+aplay $SCRIPT_DIR/lal.wav
+
+}
