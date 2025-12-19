@@ -1,0 +1,16 @@
+pyqt6-sip
+PyQt6
+psutil
+beautifulsoup4
+steam[client] @ git+https://github.com/solsticegamestudios/steam
+requests>=2.25.0
+configobj>=5.0.0
+pathlib2>=2.3.0; python_version < "3.4"
+playsound==1.2.2
+pyinstaller
+cryptography
+pillow
+numpy
+zstandard
+pygame
+PyYAML
