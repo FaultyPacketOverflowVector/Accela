@@ -18,3 +18,5 @@ It’s not like your machine is going to huff and puff and collapse under the we
 Honestly, the real bloat is all that time spent obsessing over shaving off 2.3 MB when you could be doing literally anything else with your life. Live a little. Embrace the excess. Your computer can handle it. 😏
 
 ## Not my code, not my project (Author Unknown), just hosting the code :)
+
+## Similiar Project: https://github.com/ciscosweater/Bifrost
