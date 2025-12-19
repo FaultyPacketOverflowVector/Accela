@@ -1,7 +1,7 @@
 # Accela
 _A GUI for [depotdownloadermod](https://github.com/SteamAutoCracks/DepotDownloaderMod/)_
 
-Accela requires a modded steam client to function (for Windows see: Greenluma, Steamtools, Lucky Game Tools, Tek injector & Runtime | Gnu+Linux users see: SLS Steam)
+Accela is intended to be used with a modded steam client (for Windows see: Greenluma, Steamtools, Lucky Game Tools, Tek injector & Runtime | Gnu+Linux users see: SLS Steam)
 
 So, you like having two apps that do the same thing? Perfect! This tool gives you a second downloader UI. 
 Now you have a modded Steam client (ie. SLS Steam) as a downloader and DepotDownloaderMod with this GUI too!
