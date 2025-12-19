@@ -1,7 +1,0 @@
-2025-08-21 15:02:05,976 - utils.logger - INFO - Logging configured.
-2025-08-21 15:02:05,977 - utils.logger - INFO - ========================================
-2025-08-21 15:02:05,977 - utils.logger - INFO - Application starting...
-2025-08-21 15:02:05,977 - utils.logger - INFO - ========================================
-2025-08-21 15:02:06,023 - utils.logger - INFO - Successfully loaded and applied custom font: 'TrixieCyrG-Plain'
-2025-08-21 15:02:06,044 - ui.custom_title_bar - DEBUG - CustomTitleBar initialized.
-2025-08-21 15:02:06,061 - utils.logger - INFO - Main window displayed successfully.
